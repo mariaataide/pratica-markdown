@@ -1,4 +1,4 @@
-# Aprendendo a usar a usar novas marcas da linguagem Markdown
+# Aprendendo a usar novas marcas da linguagem Markdown
 
 - **Negrito** ou __Negrito__
 - *Itálico* ou _Itálico_
